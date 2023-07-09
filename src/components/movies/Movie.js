@@ -12,7 +12,7 @@ const Movie = ({ name, image, rating, runtime, year }) => {
       }
 
       <MovieTimeYearContainer>
-        <MovieYear>{year.slice(0, 4)}</MovieYear>
+        {year ? <MovieYear>{year.slice(0, 4)}</MovieYear> : <MovieYear>2014</MovieYear>}
         <MovieRuntime>{runtime} min</MovieRuntime>
       </MovieTimeYearContainer>
       <MovieName>{name}</MovieName>
