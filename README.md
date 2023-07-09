@@ -65,7 +65,7 @@ This React app is a user-friendly and efficient solution for retrieving and disp
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Live Demo Link](https://movie-twist.netlify.app/)
 
 <!-- GETTING STARTED -->
 
