@@ -16,7 +16,7 @@ export const Pagination = (props) => {
     const handlePrevClick = () => {
         setCurrentPage(currentPage - 1);
 
-        if (currentPage == pages.startIndex + 1) {
+        if (currentPage === pages.startIndex + 1) {
             setPages({
                 startIndex: pages.startIndex - 3,
                 endIndex: pages.endIndex - 3
