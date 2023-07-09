@@ -59,7 +59,7 @@ This React app is a user-friendly and efficient solution for retrieving and disp
 
 ## 🚀 Project Intro Video <a name="project-intro-video"></a>
 
-- [Project Intro Video]()
+- [Project Intro Video](https://www.loom.com/share/2c6a9f7262d1466dbcae6e0be38645e6?sid=270033c6-4c74-4ee1-a192-6bdf69fff4d6)
 
 <!-- LIVE DEMO -->
 
