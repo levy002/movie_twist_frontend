@@ -31,6 +31,14 @@
 
 This React app is a user-friendly and efficient solution for retrieving and displaying movie information. The app seamlessly integrates with external APIs to fetch the latest and most accurate data, ensuring users have access to up-to-date movie details.
 
+## APP SCREENSHOTS
+
+<div>
+  <img src='./src/assets/mobile-screenshoot.png'/>
+  <img src='./src/assets/ipad-screenshoot.png' />
+  <img src='./src/assets/laptop-screenshot.png' />
+<div/>
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
