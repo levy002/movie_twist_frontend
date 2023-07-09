@@ -23,7 +23,7 @@ const Homepage = () => {
         } else {
             setEntriesPerPage(12);
         }
-    })
+    }, [setEntriesPerPage, windowWidth])
 
     useEffect(() => {
         const newOffset = (currentPage - 1) * entriesPerPage;
